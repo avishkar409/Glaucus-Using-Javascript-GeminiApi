@@ -75,6 +75,7 @@ NEXT_PUBLIC_GEMINI_API_KEY=your-gemini-api-key
 
 - [@shubhamgavade04](https://github.com/shubhamgavade04) - Creator & Maintainer 
 - [@Abhikhomane45](https://github.com/Abhikhomane45) - Contributor (README, UI improvements)
+- [@avishkar409](https://github.com/avishkar409) - Contributor
 -----
 
 ### 1️⃣ Clone the Repo
